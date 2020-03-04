@@ -5,7 +5,7 @@ Solo Project : This project consists of building a webpage using images as a bac
 
 ![screenshot](assets/images/screenshot.PNG)
 
-The purpose of this project is to clone the appearance of NewYork Times article page using HTML and CSS.
+The purpose of this project is to clone the appearance of old version of apple.com homepage using HTML and CSS.
 
 ## Built With
 
