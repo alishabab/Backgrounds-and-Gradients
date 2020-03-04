@@ -1,0 +1,26 @@
+{
+  "name": "backgrounds-and-gradients",
+  "version": "1.0.0",
+  "description": "Solo Project : This project consists of building a webpage using images as a background and adding gradients to elements.",
+  "main": "stylelint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alishabab/Backgrounds-and-Gradients.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alishabab/Backgrounds-and-Gradients/issues"
+  },
+  "homepage": "https://github.com/alishabab/Backgrounds-and-Gradients#readme",
+  "devDependencies": {
+    "stylelint": "^13.2.0",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1"
+  }
+}
